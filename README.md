@@ -8,7 +8,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Single price grid component](https://f0ur-card-feature.netlify.app/)
+- Live Site URL: [Single price grid component](https://s1ngle-price-grid.netlify.app/)
 
 ## Built with
 
